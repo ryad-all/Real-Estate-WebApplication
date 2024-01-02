@@ -1,7 +1,9 @@
-# SOEN 341
+# SOEN 341 (Concordia University)
 
-The application was done in SOEN 341 (Course at Concordia University) by 5 members in 4 sprints.
-Documentation of the software process was done in the wiki page of this repository
+MERN stack real estate application developed with 4 other teammates at Concordia University
+
+Documentation available in the wiki page
+
 ![image](https://github.com/ryad-all/Real-Estate-WebApplication/assets/100645955/8530386e-5ff2-4fd6-af39-2120da9d6a6a)
 
 ![image](https://github.com/ryad-all/Real-Estate-WebApplication/assets/100645955/b5732a23-74e1-4a08-826e-ba3e2bbc608c)
